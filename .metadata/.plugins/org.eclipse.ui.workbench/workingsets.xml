@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1508604073347_0" label="aem-training" name="aem-training">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ui.apps" type="4"/>
+</workingSet>
+</workingSetManager>
